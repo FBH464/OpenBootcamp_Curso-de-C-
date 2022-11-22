@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.exe
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.deps.json
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.runtimeconfig.json
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.runtimeconfig.dev.json
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.dll
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\ref\PrimerProyecto.dll
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\net5.0\PrimerProyecto.pdb
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.dll
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\ref\PrimerProyecto.dll
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.pdb
+C:\Users\franc\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\net5.0\PrimerProyecto.genruntimeconfig.cache
