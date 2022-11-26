@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.AssemblyInfo.cs
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.exe
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.deps.json
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.runtimeconfig.json
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.dll
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\bin\Debug\netcoreapp3.1\Ejercicios sesión 2.pdb
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.dll
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.pdb
+C:\Users\franc\source\repos\Ejercicios sesión 2\Ejercicios sesión 2\obj\Debug\netcoreapp3.1\Ejercicios sesión 2.genruntimeconfig.cache

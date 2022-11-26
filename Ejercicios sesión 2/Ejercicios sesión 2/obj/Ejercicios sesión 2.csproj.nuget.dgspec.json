@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\source\\repos\\OpenBootcamp\\PrimerProyecto\\PrimerProyecto\\PrimerProyecto.csproj": {}
+    "C:\\Users\\franc\\source\\repos\\Ejercicios sesión 2\\Ejercicios sesión 2\\Ejercicios sesión 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\source\\repos\\OpenBootcamp\\PrimerProyecto\\PrimerProyecto\\PrimerProyecto.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Ejercicios sesión 2\\Ejercicios sesión 2\\Ejercicios sesión 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\OpenBootcamp\\PrimerProyecto\\PrimerProyecto\\PrimerProyecto.csproj",
-        "projectName": "PrimerProyecto",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\OpenBootcamp\\PrimerProyecto\\PrimerProyecto\\PrimerProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Ejercicios sesión 2\\Ejercicios sesión 2\\Ejercicios sesión 2.csproj",
+        "projectName": "Ejercicios sesión 2",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Ejercicios sesión 2\\Ejercicios sesión 2\\Ejercicios sesión 2.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\OpenBootcamp\\PrimerProyecto\\PrimerProyecto\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Ejercicios sesión 2\\Ejercicios sesión 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
