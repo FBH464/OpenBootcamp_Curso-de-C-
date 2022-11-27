@@ -6,7 +6,7 @@ namespace Ejercicios_sesión_2
     {
         static void Main(string[] args)
         {
-          /*  //Ejercicio 1
+            //Ejercicio 1
             Console.WriteLine("Ejercicio 1: ");
             String Nombre;
             String Apellido;
@@ -28,7 +28,7 @@ namespace Ejercicios_sesión_2
             /*Tipos Usando los tipos de variables más adecuados, describe los objetos siguientes:
             Coche: puertas, ruedas, marca, ITV vigente
             Mesa: peso, largo, material, color
-            */ /*
+            */
             Console.WriteLine("Ejercicio 2: ");
             Console.WriteLine("¿Cuantas puertas tiene el coche?");
             int puerta = int.Parse(Console.ReadLine());
@@ -76,6 +76,38 @@ namespace Ejercicios_sesión_2
                 Console.WriteLine("El caracter no es a");
 
             }
+
+
+            int sideOne, sideTwo, sideThree;
+            string triangleType;
+
+            Console.Write("Ingrese el primer lado del triángulo: ");
+            sideOne = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el segundo lado del triángulo: ");
+            sideTwo = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el tercer lado del triángulo: ");
+            sideThree = int.Parse(Console.ReadLine());
+
+            // Validamos si el triángulo es equilátero, es decir, que todos sus lados son iguales.
+            if (sideOne == sideTwo && sideOne == sideThree && sideTwo == sideThree)
+            {
+                triangleType = "Equilátero";
+            }
+            else
+            {
+                // Es isósceles cuando dos de sus lados son iguales.
+                if (sideOne == sideTwo || sideOne == sideThree || sideTwo == sideThree)
+                {
+                    triangleType = "Isósceles";
+                }
+                else
+                {
+                    // Por defecto indicamos que es escaleno, ya que los tres lados son diferentes.
+                    triangleType = "Escaleno";
+                }
+            }
+
+            Console.WriteLine("El triángulo es: " + triangleType);
         }
     }
 }
