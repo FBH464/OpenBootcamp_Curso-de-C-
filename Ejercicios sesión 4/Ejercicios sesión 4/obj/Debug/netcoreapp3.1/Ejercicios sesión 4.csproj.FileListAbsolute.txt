@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.exe
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.deps.json
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.runtimeconfig.json
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.runtimeconfig.dev.json
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.dll
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\bin\Debug\netcoreapp3.1\Ejercicios sesión 4.pdb
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.AssemblyInfo.cs
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.dll
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.pdb
+C:\Users\franc\source\repos\OpenBootcamp\Ejercicios sesión 4\Ejercicios sesión 4\obj\Debug\netcoreapp3.1\Ejercicios sesión 4.genruntimeconfig.cache
