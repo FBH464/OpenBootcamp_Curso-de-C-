@@ -113,7 +113,53 @@ namespace Ejercicios_sesión_4
             *** 
              */
             Console.WriteLine("Ejercicio 3: ");
+            Console.WriteLine("Introduce el ancho:");
+            int ancho = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Introduce el alto:");
+            int alto = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Escriba 's' si desea que tenga relleno, si no escriba, cualquier otra tecla:");
+            string relleno = Console.ReadLine();
+
+            if (relleno.Contains('s'))
+            {
+                for (int r = 0; r < alto; r++)
+                {
+                    for (int p = 0; p < ancho; p++)
+                    {
+                        Console.Write('*');
+                    }
+                    Console.WriteLine("");
+                }
+            }
+            else
+            {
+                for (int r = 0; r < alto; r++)
+                {
+                    if (r == 0 || r == alto - 1)
+                    {
+                        for (int s = 0; s < ancho; s++)
+                        {
+                            Console.Write('*');
+                        }
+                        Console.WriteLine("");
+                    }
+
+                    for (int p = 0; p < ancho; p++)
+                    {
+                        if (p == 0 || p == ancho - 1)
+                        {
+                            Console.Write('*');
+                        }
+                        else
+                        {
+                            Console.Write('-');
+                        }
+                    }
+                    Console.WriteLine("");
+                }
+            }
 
         }
     }
